@@ -1,7 +1,3 @@
-<p align="center">
-<img src="./profie_banner.png" width="100%">
-</p>
-
 <h1 align="center">Hi 👋 I'm Sameer Povval</h1>
 
 <h3 align="center">
