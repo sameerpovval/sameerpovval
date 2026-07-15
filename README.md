@@ -80,23 +80,13 @@ AI-powered travel planner built using the MERN Stack.
 
 ---
 
-# <img src="https://img.icons8.com/fluency/48/prize.png" width="28"/> GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=sameerpovval&theme=tokyonight&no-frame=true&row=1&column=6"/>
-
-</p>
-
----
-
 # <img src="https://img.icons8.com/fluency/48/combo-chart.png" width="28"/> GitHub Statistics
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=sameerpovval&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=sameerpovval&show_icons=true&theme=tokyonight&hide_border=true" cache_seconds=1800/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sameerpovval&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sameerpovval&layout=compact&theme=tokyonight&hide_border=true" cache_seconds=1800/>
 
 </p>
 
@@ -117,16 +107,6 @@ AI-powered travel planner built using the MERN Stack.
 <p align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=sameerpovval&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
-# <img src="https://img.icons8.com/fluency/48/snake.png" width="28"/> Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/sameerpovval/sameerpovval/output/github-contribution-grid-snake-dark.svg"/>
 
 </p>
 
