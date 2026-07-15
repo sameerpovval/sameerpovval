@@ -47,7 +47,7 @@ MERN Stack Developer • AI Powered Web Applications • Open to Work
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,mysql,typescript,javascript,html,css,bootstrap,mui,git,github,postman,vscode"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,mysql,typescript,javascript,html,css,bootstrap,git,github,postman,vscode"/>
 
 </p>
 
