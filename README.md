@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 I'm Sameer Povval</h1>
+<h1 align="center">Hi 👋 I'm Sameer PA</h1>
 
 <h3 align="center">
 MERN Stack Developer • AI Powered Web Applications • Open to Work
