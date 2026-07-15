@@ -80,18 +80,6 @@ AI-powered travel planner built using the MERN Stack.
 
 ---
 
-# <img src="https://img.icons8.com/fluency/48/combo-chart.png" width="28"/> GitHub Statistics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=sameerpovval&show_icons=true&theme=tokyonight&hide_border=true" cache_seconds=1800/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sameerpovval&layout=compact&theme=tokyonight&hide_border=true" cache_seconds=1800/>
-
-</p>
-
----
-
 # <img src="https://img.icons8.com/fluency/48/fire-element.png" width="28"/> GitHub Streak
 
 <p align="center">
